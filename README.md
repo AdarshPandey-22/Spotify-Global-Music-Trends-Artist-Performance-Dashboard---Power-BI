@@ -11,7 +11,7 @@ The dashboard serves as a tool for record labels, artists, and analysts to under
 
 ## 📸 Dashboard Preview
 *(Please upload your dashboard screenshot here and update the filename below)*
-![Dashboard Preview](dashboard_image.png)
+![Dashboard Preview]([dashboard_image.png](https://github.com/AdarshPandey-22/Spotify-Global-Music-Trends-Artist-Performance-Dashboard---Power-BI/blob/main/Spotify%20Dashboard%20-%20Home.png))
 
 ## 🎯 Problem Statement
 To analyze global streaming data and answer critical questions about the music industry:
